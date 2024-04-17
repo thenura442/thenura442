@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Thenura Wijerathne</h1>
 <h3 align="center">A passionate FullStack Developer from Sri Lanka</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenura442&label=Profile%20views&color=0e75b6&style=flat" alt="thenura442" /> </p>
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Software Engineering] at the University of Plymouth, United Kingdom<br/>
