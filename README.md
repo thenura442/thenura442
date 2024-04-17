@@ -16,9 +16,9 @@ I'm Thenura from Sri Lanka, and I do projects related to Design and Development.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenura442&show_icons=true&locale=en&layout=compact&theme=radical" alt="thenura442" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenura442&show_icons=true&locale=en&theme=radical" alt="thenura442" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenura442&&theme=radical" alt="thenura442"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenura442&&theme=radical" alt="thenura442" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thenura442&show_icons=true&locale=en&theme=radical" alt="thenura442"  /></p>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=thenura442&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
