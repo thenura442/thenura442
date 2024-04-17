@@ -21,7 +21,7 @@ I'm Thenura from Sri Lanka, and I do projects related to Design and Development.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenura442&&theme=radical"  alt="thenura442"  /></p>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=thenura442&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=thenura442&theme=radical&hide&border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
