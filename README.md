@@ -29,8 +29,7 @@ Adept at effective communication and collaboration, I am eager to contribute my 
 
 # Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rishav-chanda-b89a791b3" height="40" width="80" /></a>
+<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="120" /></a>
 
 # Github Statisticss
 
