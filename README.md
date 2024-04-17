@@ -10,7 +10,7 @@
 🌱 I’m currently learning more on **DevOps and Machine Learning**<br>
 💬 Ask me about **MEAN , Ionic**<br>
 📫 How to reach me **thenura.w3@gmail.com**<br>
-⚡ Fun fact **I am Funny**<br>
+⚡ Open for **Software Services**<br>
 <!--💭 Currently venturing deep into Devops and Machine Learning!<br/>-->
 <!--🔭 I’m currently working on **Vexa Web App**-->
 <!--🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>-->
@@ -19,9 +19,20 @@
 
 # About Me
 
-I'm Thenura from Sri Lanka, and I do projects related to Design and Development. I really enjoy learning languages and frameworks like Angular and Ionic, as well as work in Mobile App development. I also enjoy wireframing, ui, ux, and design in general.<br>
+As a dedicated software engineering graduate hailing from Sri Lanka, I specialize in both design and development projects. My name is Thenura, and I thrive on the intricacies of crafting innovative solutions.
 
-# Github Stats
+Passionate about learning, I immerse myself in languages and frameworks such as Angular and Ionic, particularly enjoying the challenges of mobile app development. Alongside my technical pursuits, I find immense satisfaction in wireframing, UI, UX, and design, relishing the creative process in its entirety.
+
+As a full-stack developer, I excel in the MEAN stack, proficient in both frontend and backend development. With over three years of freelancing experience, I've honed my skills across various technologies and methodologies, ensuring proficiency in all aspects of the software development process.
+
+Adept at effective communication and collaboration, I am eager to contribute my expertise to diverse projects, driving innovation and success. As I continue to evolve and expand my skill set, I am poised to make a lasting impact in the world of software engineering.<br>
+
+# Connect With Me
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rishav-chanda-b89a791b3" height="40" width="80" /></a>
+
+# Github Statisticss
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenura442&show_icons=true&locale=en&layout=compact&theme=radical" alt="thenura442" /></p>
 
