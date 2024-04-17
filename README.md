@@ -3,11 +3,16 @@
 <h1 align="center">Hi 👋, I'm Thenura Wijerathne</h1>
 <h3 align="center">A passionate FullStack Developer from Sri Lanka</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenura442&label=Profile%20views&color=0e75b6&style=flat" alt="thenura442" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thenura442&label=Profile%20views&color=0e75b6&style=flat" alt="thenura442" /> </p>
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Software Engineering] at the University of Plymouth, United Kingdom<br/>
-💭 Currently learning more about machine learning!<br/>
+👩🏻‍💻 Sharing about my journey as a Software Engineer and learnings in tech<br/>
+👩🏻‍🎓 Studied Software Engineering at the University of Plymouth, United Kingdom<br/>
+🌱 I’m currently learning more on **DevOps and Machine Learning**
+💬 Ask me about **MEAN , Ionic**
+📫 How to reach me **thenura.w3@gmail.com**
+⚡ Fun fact **I am Funny**
+<!--💭 Currently venturing deep into Devops and Machine Learning!<br/>-->
+<!--🔭 I’m currently working on **Vexa Web App**-->
 <!--🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>-->
 <!--🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>-->
 
