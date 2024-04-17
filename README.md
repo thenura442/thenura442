@@ -1,11 +1,16 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <!-- Level 3: Add custom code -->
-
 # 👋 Hi, I'm Thenura!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Software Engineering] at the University of Plymouth, United Kingdom<br/>
+💭 Currently learning more about machine learning!<br/>
 <!--🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>-->
 <!--🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>-->
-💭 Currently learning more about machine learning!<br/>
+
+
+# About Me
+
+I'm Thenura from Sri Lanka, and I do projects related to Design and Development. I really enjoy learning languages and frameworks like Angular and Ionic, as well as work in Mobile App development. I also enjoy wireframing, ui, ux, and design in general.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=thenura442&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
