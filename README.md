@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenura442&label=Profile%20views&color=0e75b6&style=flat" alt="thenura442" /> </p>
 
-👩🏻‍💻 Sharing about my journey as a Software Engineer and learnings in tech<br/>
-👩🏻‍🎓 Studied Software Engineering at the University of Plymouth, United Kingdom<br/>
-🌱 I’m currently learning more on **DevOps and Machine Learning**<br>
-💬 Ask me about **MEAN , Ionic**<br>
-📫 How to reach me **thenura.w3@gmail.com**<br>
+👩🏻‍💻 Sharing about my journey as a Software Engineer and learnings in tech<br/><br/>
+👩🏻‍🎓 Studied Software Engineering at the University of Plymouth, United Kingdom<br/><br/>
+🌱 I’m currently learning more on **DevOps and Machine Learning**<br><br/>
+💬 Ask me about **MEAN , Ionic**<br><br/>
+📫 How to reach me **thenura.w3@gmail.com**<br><br/>
 ⚡ Open for **Software Services**<br>
 <!--💭 Currently venturing deep into Devops and Machine Learning!<br/>-->
 <!--🔭 I’m currently working on **Vexa Web App**-->
@@ -29,7 +29,7 @@ Adept at effective communication and collaboration, I am eager to contribute my 
 
 # Connect With Me
 
-<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="140" /></a>
 
 # Github Statisticss
 
