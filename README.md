@@ -10,7 +10,7 @@
 🌱 I’m currently learning more on **DevOps and Machine Learning**<br><br/>
 💬 Ask me about **MEAN , Ionic**<br><br/>
 ⚡ Open for **Software Services and Inquiries**<br><br>
-📫 How to reach me **thenura.w3@gmail.com**<br/>
+📫 How to reach me **thenura.w3@gmail.com**<br/><br>
 <!--💭 Currently venturing deep into Devops and Machine Learning!<br/>-->
 <!--🔭 I’m currently working on **Vexa Web App**-->
 <!--🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>-->
@@ -29,7 +29,8 @@ Adept at effective communication and collaboration, I am eager to contribute my 
 
 # Connect With Me
 <br>
-<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="130" /></a><br>
+<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="120" /></a>
+<br><br>
 
 # Github Statisticss
 
@@ -58,7 +59,7 @@ While only a handful of projects are currently updated on my GitHub and LinkedIn
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)<br/><br/>
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)<br/>
 
 ### Frameworks,Platforms and Libraries
 
