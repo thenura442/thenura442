@@ -9,8 +9,8 @@
 👩🏻‍🎓 Studied Software Engineering at the University of Plymouth, United Kingdom<br/><br/>
 🌱 I’m currently learning more on **DevOps and Machine Learning**<br><br/>
 💬 Ask me about **MEAN , Ionic**<br><br/>
-📫 How to reach me **thenura.w3@gmail.com**<br><br/>
-⚡ Open for **Software Services**<br>
+⚡ Open for **Software Services and Inquiries**<br><br>
+📫 How to reach me **thenura.w3@gmail.com**<br/>
 <!--💭 Currently venturing deep into Devops and Machine Learning!<br/>-->
 <!--🔭 I’m currently working on **Vexa Web App**-->
 <!--🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>-->
@@ -28,8 +28,8 @@ As a full-stack developer, I excel in the MEAN stack, proficient in both fronten
 Adept at effective communication and collaboration, I am eager to contribute my expertise to diverse projects, driving innovation and success. As I continue to evolve and expand my skill set, I am poised to make a lasting impact in the world of software engineering.<br>
 
 # Connect With Me
-
-<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="140" /></a>
+<br>
+<a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="130" /></a><br>
 
 # Github Statisticss
 
