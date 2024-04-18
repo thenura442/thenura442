@@ -38,7 +38,7 @@ Adept at effective communication and collaboration, I am eager to contribute my 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenura442&locale=en&theme=radical&include_all_commits=true&count_private=true"" alt="thenura442"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenura442&&theme=radical"  alt="thenura442"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenura442&&theme=radical"  alt="thenura442"  /></p><br><br>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -47,7 +47,7 @@ As a seasoned software engineer with over three years of freelancing experience,
 
 While only a handful of projects are currently updated on my GitHub and LinkedIn profiles, I'm actively working to update the rest to showcase the full breadth of my expertise. My GitHub profile reflects my commitment to delivering high-quality solutions tailored to specific project requirements, with a passion for innovation and a relentless pursuit of excellence.<br>
 
-### Languages
+## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
