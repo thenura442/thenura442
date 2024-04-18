@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <!-- Level 3: Add custom code -->
 <h1 align="center">Hi 👋, I'm Thenura Wijerathne</h1>
-<h3 align="center">A passionate FullStack Developer from Sri Lanka</h3><br>
+<h3 align="center">A Passionate FullStack Developer From Sri Lanka</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenura442&label=Profile%20views&color=0e75b6&style=flat" alt="thenura442" /> </p>
 
@@ -32,7 +32,7 @@ Adept at effective communication and collaboration, I am eager to contribute my 
 <a href="https://www.linkedin.com/in/thenura-wijerathne-7a2076301/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thenura-wijerathne-7a2076301" height="30" width="120" /></a>
 <br><br>
 
-# Github Statisticss
+# Github Statistics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenura442&show_icons=true&locale=en&layout=compact&theme=radical" alt="thenura442" /></p>
 
